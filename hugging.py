@@ -4,7 +4,7 @@ import io
 
 
 # Streamlit app layout
-st.title('Custom DOCX Document Generator')
+st.title('District Profile Generator')
 user_input = st.text_area("Enter your text here")
 
 if st.button('Generate Document'):
